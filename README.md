@@ -101,7 +101,7 @@ const NATHAN: QuantDev = QuantDev {
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/trunkszi/ferrilog/pull/1) in [trunkszi/ferrilog](https://github.com/trunkszi/ferrilog)
+1. 🎉 Merged PR [#1](https://github.com/trunkszi/ferrilog/pull/1) in [trunkszi/ferrilog](https://github.com/trunkszi/ferrilog)
 <!--END_SECTION:activity-->
 
 <div align="center">
