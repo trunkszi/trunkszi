@@ -101,7 +101,7 @@ const NATHAN: QuantDev = QuantDev {
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/trunkszi/ta-lib-rs/pull/4) in [trunkszi/ta-lib-rs](https://github.com/trunkszi/ta-lib-rs)
+1. 🎉 Merged PR [#1](https://github.com/trunkszi/clapp/pull/1) in [trunkszi/clapp](https://github.com/trunkszi/clapp)
 <!--END_SECTION:activity-->
 
 <div align="center">
