@@ -101,7 +101,7 @@ const NATHAN: QuantDev = QuantDev {
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/trunkszi/clickhouse-cxx/pull/19) in [trunkszi/clickhouse-cxx](https://github.com/trunkszi/clickhouse-cxx)
+1. 🚀 Published release [v0.0.2](https://github.com/trunkszi/liburing-rs/releases/tag/v0.0.2) in [trunkszi/liburing-rs](https://github.com/trunkszi/liburing-rs)
 <!--END_SECTION:activity-->
 
 <div align="center">
